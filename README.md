@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta charset = "utf=8">
+        <meta name = "viewport" content="width=device-width,initial-scale=1.0">
+        <title> My Resume </title>
+        <link rel = "stylesheet" href="s.css">
+	</head>
 
-You can use the [editor on GitHub](https://github.com/E-trashsibhim/System/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+    <header>
+        <div class="navbar">
+            <img src="png/eliteslogo11.png" class="caption">
+            <div class="login">
+                <a href="#" id="button">Administrator</a>
+            </div>
+        </div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+        <img src="png/ELITES.png" class="logo">
+        <h1>ELITES Organization</h1>
+        <p>"We believe that everyone has a part to share"</p>
 
-### Markdown
+        <div class="navbar">
+            <div class="register">
+                <a href="#" id="button">Register Now! &#8594; </a>
+            </div>
+        </div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    </header>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+    <main>
+        <article>
+          <h2>TITLE HEADING</h2>
+          <h3>Title Description - Mar 10, 2019</h3>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit consectetur dolor blanditiis quae illum corporis minima voluptas id maiores ducimus inventore hic quasi sequi quidem nobis tempora accusantium sapiente nam amet voluptatum perferendis aliquid quibusdam, sed tenetur?</p>
+          <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>      
+        </article>
+    </main>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+      <footer>
+        <p>Copyright &copy; <script>document.write(new Date().getFullYear());</script>, Coding Journey</p>
+      </footer>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/E-trashsibhim/System/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
